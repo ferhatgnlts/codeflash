@@ -1,0 +1,138 @@
+Terms of Use
+
+Last Updated: September 9, 2026
+
+These Terms of Use ("Terms") govern your use of the Codeflash application ("Codeflash", "the App", "we", "us", or "our"). By downloading, installing, accessing, or using Codeflash, you agree to these Terms. If you do not agree with these Terms, please do not use the App.
+
+1. Use of Codeflash
+
+Codeflash is a mobile code editor that allows users to create, edit, manage, and work with code and files on their Android devices.
+
+You may use Codeflash for lawful purposes and in accordance with these Terms.
+
+You are responsible for the code, files, projects, and other content you create, edit, or use through the App.
+
+2. User Content
+
+You retain ownership of the code, files, projects, and other content that you create or provide while using Codeflash.
+
+Codeflash does not claim ownership of your content.
+
+You are solely responsible for ensuring that your content complies with applicable laws and does not infringe the rights of others.
+
+You should maintain your own backups of important files and projects. Codeflash does not guarantee that your content will always be preserved or recoverable.
+
+3. Acceptable Use
+
+You agree not to use Codeflash:
+
+For unlawful activities or purposes.
+
+To violate the rights of others.
+
+To distribute malware, ransomware, or other malicious software.
+
+To intentionally damage, disrupt, or interfere with systems, networks, or services.
+
+In a manner that violates applicable laws or regulations.
+
+Codeflash is a general-purpose development tool. The existence of a feature that can be used for a particular purpose does not mean that we endorse or authorize unlawful use of that feature.
+
+4. Pro Features and Purchases
+
+Codeflash may offer optional paid features ("Pro").
+
+Pro is provided as a one-time purchase unless otherwise stated at the time of purchase.
+
+Purchases are processed through the applicable app store, such as Google Play. Payment processing, refunds, and certain purchase-related matters are subject to the terms and policies of the applicable app store.
+
+We do not control the payment processing systems operated by third-party app stores.
+
+We reserve the right to modify, add, or remove Pro features in future versions of the App. Such changes will not affect the validity of a purchase already completed, except where otherwise permitted by applicable law or required by the relevant platform.
+
+5. Third-Party Services
+
+Codeflash may interact with or support third-party services, libraries, platforms, or applications.
+
+Your use of third-party services is subject to their respective terms and policies. Codeflash is not responsible for the availability, functionality, security, or policies of third-party services.
+
+When you use Android's system sharing functionality, the Android share interface allows you to select another application to handle the shared content. Codeflash does not control the third-party application you choose or how that application handles the shared content.
+
+6. Open Source Software
+
+Codeflash may include or use open-source software and libraries provided under their respective licenses.
+
+Applicable open-source licenses and notices are available in the App's Open Source Licenses section.
+
+These licenses remain subject to their respective terms and conditions.
+
+7. Intellectual Property
+
+Except for user content and third-party materials, Codeflash and its original software, design, interface, branding, and other materials are owned by or licensed to us and are protected by applicable intellectual property laws.
+
+You may not copy, modify, distribute, sell, reverse engineer, or otherwise exploit Codeflash or its proprietary components except where permitted by applicable law or with our permission.
+
+Nothing in these Terms transfers ownership of Codeflash or its intellectual property to you.
+
+8. Disclaimer
+
+Codeflash is provided on an "as is" and "as available" basis, to the extent permitted by applicable law.
+
+We do not guarantee that:
+
+Codeflash will always be available or operate without interruption.
+
+The App will be completely free of bugs or errors.
+
+The App will meet every user's specific requirements.
+
+Files or data will never be lost, corrupted, or become inaccessible.
+
+Code or projects created with Codeflash will function correctly.
+
+You are responsible for maintaining appropriate backups of your important data.
+
+9. Limitation of Liability
+
+To the maximum extent permitted by applicable law, we will not be liable for indirect, incidental, special, consequential, or punitive damages arising from or related to your use of Codeflash.
+
+This includes, without limitation, loss of data, loss of profits, loss of projects, business interruption, or other damages resulting from the use or inability to use the App.
+
+Nothing in these Terms excludes or limits liability that cannot legally be excluded or limited under applicable law.
+
+10. Availability and Changes
+
+We may modify, update, suspend, or discontinue parts of Codeflash at any time.
+
+We may also release updates that change the functionality, appearance, requirements, or availability of certain features.
+
+We are not obligated to provide continued support for any particular version of the App.
+
+11. Termination
+
+You may stop using Codeflash at any time by uninstalling the App.
+
+We may restrict or terminate access to certain features if reasonably necessary to protect the App, its users, or our rights, or where required by law.
+
+Sections of these Terms that by their nature should survive termination will remain effective after you stop using the App.
+
+12. Changes to These Terms
+
+We may update these Terms from time to time.
+
+When we make changes, we will update the "Last Updated" date at the beginning of these Terms. Your continued use of Codeflash after the updated Terms become effective constitutes acceptance of the revised Terms, to the extent permitted by applicable law.
+
+13. Governing Law
+
+These Terms shall be governed by and interpreted in accordance with the laws applicable to the jurisdiction in which the developer or operator of Codeflash is established, except where applicable law requires otherwise.
+
+Nothing in these Terms limits any mandatory consumer rights that cannot be waived under applicable law.
+
+14. Contact
+
+If you have questions, concerns, or requests regarding these Terms, you can contact us at:
+
+Email: alonewolfsoftware@gmail.com
+
+By using Codeflash, you acknowledge that you have read and understood these Terms of Use and agree to be bound by them.
+

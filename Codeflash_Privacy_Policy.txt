@@ -1,0 +1,84 @@
+Privacy Policy for Codeflash
+
+Last Updated: September 9, 2026
+
+Introduction
+
+Codeflash ("the App," "we," "our," or "us") is a code editor application available on the Google Play Store. This Privacy Policy explains how we handle information in connection with your use of the App.
+
+We are committed to protecting your privacy. Codeflash does not collect, store, transmit, or share personal data from its users.
+
+Information We Do Not Collect
+
+Codeflash does not collect:
+
+- Personal identification information, such as your name, email address, or phone number
+- Location data
+- Device identifiers for tracking purposes
+- Usage analytics or behavioral data
+- Files, source code, or other content you create, open, edit, or use within the App
+- Personal data through advertising or advertising networks
+- Any personal data transmitted to our servers or third-party services
+
+How Codeflash Works
+
+Codeflash operates primarily on your device. It allows you to:
+
+- Browse files stored on your device
+- Open and edit files
+- Run or preview supported files and projects
+
+Files and code you work with are stored locally on your device. Codeflash does not upload, synchronize, back up, or transmit your files or code to our servers.
+
+In-App Purchases
+
+Codeflash offers a one-time in-app purchase to unlock Codeflash Pro features. The purchase is processed through Google Play Billing.
+
+- Codeflash does not receive, collect, or store your credit card number, bank details, or other payment credentials.
+- Payment processing is handled by Google Play and is subject to Google's applicable terms and privacy practices.
+- Codeflash receives purchase-related information necessary to verify your purchase and unlock the Pro features associated with that purchase.
+
+For information about how Google handles your information, please refer to Google's Privacy Policy:
+https://policies.google.com/privacy
+
+Advertising
+
+Codeflash does not display advertisements and does not use advertising networks or advertising identifiers.
+
+Third-Party Services
+
+Codeflash does not integrate third-party services for advertising, analytics, behavioral tracking, or collection of user personal data.
+
+The App uses Google Play Billing solely for processing and verifying the one-time in-app purchase described above. Google Play is a third-party service and may process information independently in accordance with its own privacy policies and terms.
+
+Children's Privacy
+
+Codeflash does not knowingly collect personal information from anyone, including children under the age of 13 or the applicable minimum age in their jurisdiction.
+
+Because Codeflash does not collect personal data from its users, the App does not knowingly collect personal information from children.
+
+Data Security
+
+Codeflash does not collect or transmit personal data to our servers. Files and code created or opened using Codeflash remain on your device unless you explicitly choose to share them with another application using the Android system sharing function.
+
+The security of files stored on your device is also dependent on the security features and settings of your device and Android operating system.
+
+Data Retention and Deletion
+
+Because Codeflash does not collect or store personal data on its own servers, we do not maintain user personal data that requires deletion from our systems.
+
+Any files created, opened, or edited with Codeflash are stored locally on your device and can be managed or deleted by you using the device's file management features.
+
+Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in the App's functionality or for legal or regulatory reasons.
+
+Any changes will be posted on this page with an updated "Last Updated" date. We encourage you to review this Privacy Policy periodically.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Email: alonewolfsupp@gmail.com
+
+This Privacy Policy applies solely to the Codeflash application and does not apply to third-party services, including Google Play, that the App may interact with. Third-party services are governed by their own privacy policies and terms.
